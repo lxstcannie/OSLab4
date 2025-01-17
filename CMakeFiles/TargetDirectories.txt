@@ -1,5 +1,0 @@
-C:/proga/OS/OSLab4/CMakeFiles/ALL_BUILD.dir
-C:/proga/OS/OSLab4/CMakeFiles/ZERO_CHECK.dir
-C:/proga/OS/OSLab4/OSLab4/CMakeFiles/receiver.dir
-C:/proga/OS/OSLab4/OSLab4/CMakeFiles/sender.dir
-C:/proga/OS/OSLab4/OSLab4/CMakeFiles/ALL_BUILD.dir
